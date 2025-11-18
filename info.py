@@ -166,7 +166,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "https://worthwhile-letizia-prajwal0027-f49cf055.koyeb.app/")
+URL = environ.get("URL", "https://10xhub-filesdownload-f49cf055.koyeb.app/")
 
 
 # Rename Info : If True Then Bot Rename File Else Not
@@ -196,6 +196,7 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
