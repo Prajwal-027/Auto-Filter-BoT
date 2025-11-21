@@ -5,9 +5,10 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
     
-    🍿 Welcome To The Worlds Coolest Search Engine On The Net!...
+🍿 Welcome To The Worlds Coolest Search Engine On The Net!...
 
 Here, You Can Watch Any Movie/Series By Just Typing Title Of A Film or Series..🔍
+
 ◆ ᴊᴏɪɴ ➤ @tenxbackupchannel</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
@@ -755,6 +756,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
 
